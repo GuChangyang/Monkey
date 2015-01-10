@@ -1,15 +1,11 @@
 public class  Hello
 {
-	public static final String COMPANY_NAME = GCY;
+	
 	public static void main(String[] args) 
 	{
-		System.out.println("Happy new year");
-		System.out.println("I am happy");   
-		print();
+		System.out.println("***************");
+		System.out.println("###############");   
+		
 	}
-	public static void print()
-	{
-	    System.out.println("***Happy new year***");
-		System.out.println("***I am happy***");          
-	}
+	
 }
