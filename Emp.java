@@ -8,6 +8,10 @@ public class  Emp implements Serializable{
 	private Double comm;
 	private Emp mgr;
 	
+	public Stirng toString()
+	{
+	   return "a manager";
+	}
 	
 	
 }
